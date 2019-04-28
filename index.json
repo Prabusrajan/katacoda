@@ -1,19 +1,15 @@
 {
-  "title": "BigData CoE cross-skill training 2019 v1",
-  "description": "BigData CoE cross-skill training 2019",
+  "title": "Creating a Katacoda Course",
+  "description": "Learn how to create a collection of Katacoda scenarios into a course",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Pathway Files",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Reusing Scenarios",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {
@@ -24,9 +20,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "git"
   }
 }
