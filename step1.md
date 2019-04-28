@@ -4,4 +4,3 @@ This is your first step.
 
 This is an example of creating a scenario and running a command
 
-echo 'Hey'{{execute}}
