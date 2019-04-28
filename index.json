@@ -2,7 +2,7 @@
   "title": "Testing",
   "description": "Testing",
   "difficulty": "Unsure",
-  "private": true,
+  "private": false,
   "time": "2 minutes",
   "details": {
     "steps": [{
