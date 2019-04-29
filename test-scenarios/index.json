@@ -1,14 +1,14 @@
 {
-  "title": "Creating a Katacoda Coursev1",
-  "description": "Learn how to create a collection of Katacoda scenarios into a course",
+  "title": "Bigdata CoE cross-skill traning course",
+  "description": "Learn some interesting technolgies powering EK's Bigdata projects",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Pathway Files",
+        "title": "Welcome",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Reusing Scenarios",
+        "title": "Pojects",
         "text": "step2.md"
       }
     ],
@@ -23,6 +23,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "bash"
   }
 }
